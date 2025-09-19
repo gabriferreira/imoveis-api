@@ -1,0 +1,5 @@
+imoveis-api/       ← raiz
+├─ package.json
+├─ imoveis.json
+└─ api/
+   └─ imoveis.js
